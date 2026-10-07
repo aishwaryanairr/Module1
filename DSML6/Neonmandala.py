@@ -31,7 +31,7 @@ for i in range(80):
     board.right(91)
 
 # PART 4 - PEN CONTROL: MOVE TO CENTER AND DRAW A FILLED STAR
-# penup() lifts the pen so moving doesn't draw a line.
+# penup() lifts the pen so moving doesn't draw a line..
 # goto(0, 0) teleports the turtle to the exact center of the canvas.
 # pendown() puts the pen back on the canvas -- drawing starts again.
 # begin_fill() + end_fill() fills the shape with the chosen color.
